@@ -1,5 +1,5 @@
 💫 About Me:
- Hi, I'm Lutfar Rahman Reza 👋<br><br>🚀 **System Administrator | DevOps Enthusiast | Cloud Engineer in Progress**<br><br>I have 2 years of experience in system administration and am passionate about transitioning into DevOps, Cloud, and SRE roles.
+ Hi, I'm Lutfar Rahman Reza 👋<br><br>🚀 **DevOps Engineer | AI & ML Enthusiast**<br><br>I have 2 years of experience in system administration and am passionate about transitioning into DevOps, Cloud, and SRE roles.
 
 
 ## 🌐 Socials:
